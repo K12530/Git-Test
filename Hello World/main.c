@@ -2,5 +2,7 @@
 
 void main()
 {
-	printf("Hello World\r\n");
+	printf("Hello World ---\r\n");
+
+	printf("***\r\n");
 }
